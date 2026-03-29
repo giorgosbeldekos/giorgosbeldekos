@@ -70,14 +70,9 @@
 
 <div align="center">
 
-![Giorgos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giorgosbeldekos&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgosbeldekos&layout=compact&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=giorgosbeldekos&theme=dark&hide_border=true)
 
 </div>
-
----
-
 <div align="center">
 
 *Open to junior developer roles & internships — graduating June 2026*
