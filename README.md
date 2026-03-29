@@ -19,7 +19,7 @@
 - 🎓 4th-year **Applied Informatics** student @ University of Macedonia (graduating June 2026)
 - 💼 Former **Frontend Developer Intern** @ [Onelity](https://onelity.com) — Angular, Penpot
 - 🚀 Built and deployed **[roadsofrhodes.gr](https://roadsofrhodes.gr)** — a live production Next.js website
-- 🌱 Currently leveling up in **TypeScript** and **full-stack** development
+- 🌱 Currently leveling up in **TypeScript** and **front-end** development
 - 🗣️ Greek (native) · English (C2) · German (B2)
 - 📬 Reach me at **giorgosbeldekos@gmail.com**
 
