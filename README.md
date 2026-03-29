@@ -70,9 +70,9 @@
 
 <div align="center">
 
-![Giorgos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giorgosbeldekos&show_icons=true&theme=transparent&hide_border=true&title_color=6ee7b7&icon_color=6ee7b7&text_color=9ca3af&bg_color=00000000)
+![Giorgos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giorgosbeldekos&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgosbeldekos&layout=compact&theme=transparent&hide_border=true&title_color=6ee7b7&text_color=9ca3af&bg_color=00000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgosbeldekos&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
