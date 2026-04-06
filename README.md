@@ -65,16 +65,3 @@
 | Accountant Website | 🧾 Business site for accounting firm *(in development)* | Next.js, Tailwind CSS |
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=giorgosbeldekos&theme=dark&hide_border=true)
-
-</div>
-<div align="center">
-
-*Open to junior developer roles & internships — graduating June 2026*
-
-</div>
