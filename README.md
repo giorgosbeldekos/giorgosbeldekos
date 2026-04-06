@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=60&lines=Building+interfaces+that+feel+alive+%E2%9C%A8;Next.js+%7C+Angular+%7C+React+%7C+TypeScript;From+Thessaloniki%2C+shipping+to+the+world+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=60&lines=Building+interfaces+that+feel+alive;Next.js+%7C+Angular+%7C+React+%7C+TypeScript;From+Thessaloniki%2C+shipping+to+the+world)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,14 +18,14 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```ts
 const giorgos = {
-  location:   "Thessaloniki, Greece 🇬🇷",
+  location:   "Thessaloniki, Greece",
   education:  "4th-year Applied Informatics @ University of Macedonia (graduating June 2026)",
   experience: "Frontend Developer Intern @ Onelity — Angular, Penpot",
-  currently:  ["leveling up in TypeScript", "building Next.js projects", "job hunting 👀"],
+  currently:  ["leveling up in TypeScript", "building Next.js projects", "job hunting"],
   languages:  { Greek: "native", English: "C2", German: "B2" },
   contact:    "giorgosbeldekos@gmail.com",
 };
@@ -33,7 +33,7 @@ const giorgos = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 
@@ -63,19 +63,19 @@ const giorgos = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚌 <a href="https://roadsofrhodes.gr">roadsofrhodes.gr</a></h3>
+      <h3><a href="https://roadsofrhodes.gr">roadsofrhodes.gr</a></h3>
       <p>Live production website for a transfer van service in Rhodes. Fully deployed and serving real customers.</p>
       <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
       <img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>👤 User Management Dashboard</h3>
+      <h3>User Management Dashboard</h3>
       <p>Full CRUD dashboard built during internship at Onelity. Includes role management, filtering, and Penpot-designed UI.</p>
       <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
       <img src="https://img.shields.io/badge/Penpot-000?style=flat-square&logo=penpot&logoColor=white" />
@@ -84,14 +84,14 @@ const giorgos = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧾 Accountant Website</h3>
+      <h3>Accountant Website</h3>
       <p>Business website for an accounting firm — clean, professional, and SEO-friendly. Currently in development.</p>
       <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
       <img src="https://img.shields.io/badge/Status-In_Dev-f59e0b?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>💼 <a href="https://portfolio-sigma-five-dfv1pvp3o2.vercel.app">Personal Portfolio</a></h3>
+      <h3><a href="https://portfolio-sigma-five-dfv1pvp3o2.vercel.app">Personal Portfolio</a></h3>
       <p>My personal corner on the web — showcasing projects, skills, and experience as a frontend developer.</p>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -102,12 +102,12 @@ const giorgos = {
 
 ---
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
-- 📐 Advanced **TypeScript** patterns (generics, utility types, discriminated unions)
-- ⚡ **Next.js 15** App Router & Server Actions
-- 🎨 **Animation** libraries — Framer Motion, GSAP
-- 🔍 **Accessibility** best practices (WCAG 2.1)
+- Advanced **TypeScript** patterns (generics, utility types, discriminated unions)
+- **Next.js 15** App Router & Server Actions
+- **Animation** libraries — Framer Motion, GSAP
+- **Accessibility** best practices (WCAG 2.1)
 
 ---
 
