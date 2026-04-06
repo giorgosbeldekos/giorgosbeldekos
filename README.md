@@ -13,6 +13,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-sigma-five-dfv1pvp3o2.vercel.app)
 [![roadsofrhodes.gr](https://img.shields.io/badge/roadsofrhodes.gr-Live-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://roadsofrhodes.gr)
 
+
 </div>
 
 ---
@@ -98,21 +99,6 @@ const giorgos = {
     </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
