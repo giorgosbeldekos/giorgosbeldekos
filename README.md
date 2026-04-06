@@ -102,10 +102,10 @@ const giorgos = {
 
 ## Currently Exploring
 
-- Advanced **TypeScript** patterns (generics, utility types, discriminated unions)
-- **Next.js 15** App Router & Server Actions
-- **Animation** libraries — Framer Motion, GSAP
-- **Accessibility** best practices (WCAG 2.1)
+- **Next.js 15** App Router, Server Actions & server-side rendering patterns
+- **Angular** advanced concepts — signals, standalone components, lazy loading
+- **TypeScript** generics and utility types for scalable frontends
+- **Tailwind CSS** design systems and component architecture
 
 ---
 
