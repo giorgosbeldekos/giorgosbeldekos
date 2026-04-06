@@ -4,9 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=520&height=40&lines=Building+interfaces+that+feel+alive;Next.js+%7C+Angular+%7C+React+%7C+TypeScript;From+Thessaloniki%2C+shipping+to+the+world)](https://git.io/typing-svg)
 
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://gr.linkedin.com/in/giorgosbeldekos-88b541294)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giorgosbeldekos@gmail.com)
