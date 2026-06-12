@@ -22,7 +22,7 @@
 const giorgos = {
   location:   "Thessaloniki, Greece",
   education:  "4th-year Applied Informatics @ University of Macedonia (graduating June 2026)",
-  experience: "Frontend Developer Intern @ Onelity — Angular, Penpot",
+  experience: "Frontend Developer Intern @ Onelity - Angular, Penpot",
   currently:  ["leveling up in TypeScript", "building Next.js projects", "job hunting"],
   languages:  { Greek: "native", English: "C2", German: "B2" },
   contact:    "giorgosbeldekos@gmail.com",
@@ -83,14 +83,14 @@ const giorgos = {
   <tr>
     <td width="50%" valign="top">
       <h3>Accountant Website</h3>
-      <p>Business website for an accounting firm — clean, professional, and SEO-friendly. Currently in development.</p>
+      <p>Business website for an accounting firm - clean, professional, and SEO-friendly. Currently in development.</p>
       <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
       <img src="https://img.shields.io/badge/Status-In_Dev-f59e0b?style=flat-square" />
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://portfolio-sigma-five-dfv1pvp3o2.vercel.app">Personal Portfolio</a></h3>
-      <p>My personal corner on the web — showcasing projects, skills, and experience as a frontend developer.</p>
+      <p>My personal corner on the web - showcasing projects, skills, and experience as a frontend developer.</p>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square" />
@@ -103,7 +103,7 @@ const giorgos = {
 ## Currently Exploring
 
 - **Next.js 15** App Router, Server Actions & server-side rendering patterns
-- **Angular** advanced concepts — signals, standalone components, lazy loading
+- **Angular** advanced concepts - signals, standalone components, lazy loading
 - **TypeScript** generics and utility types for scalable frontends
 - **Tailwind CSS** design systems and component architecture
 
